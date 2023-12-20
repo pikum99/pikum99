@@ -7,20 +7,22 @@
 インフラ: Docker, AWS  
 機械学習: Pytorch
 
-## 主なプロジェクト
+## ポートフォリオ
+
+### Webサービス
 
 - [HAKUSHI](https://hakushi.biz/)  
-キャラクター支援型TODO管理サービス。
+  キャラクター支援型TODO管理サービス。
+  
+  使用技術  
+  バックエンド: Django  
+  フロントエンド: Vue.js  
+  インフラ: Docker, AWS  
 
-使用技術  
-バックエンド: Django  
-フロントエンド: Vue.js  
-インフラ: Docker, AWS  
-
+### ツール開発
 
 - TechDebtExplorer  
   技術的負債を可視化することを目的とした計算ツールです。
-
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=TechDebtExplorer)](https://github.com/pikum99/TechDebtExplorer)
 
@@ -28,8 +30,25 @@
   言語: Python  
   アルゴリズム: Levenshtein  
 
-- BUG Project  
-  深層学習モデルで色々予測するプロジェクトです。
+### AIモデル開発
+
+- StockNN  
+  株価をテーブル分類問題として予測しようとしたプロジェクトです。
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=StockNN)](https://github.com/pikum99/StockNN)
+
+  使用技術  
+  ライブラリ: PyTorch  
+  モデル: LSTM + MLP
+
+- BoatRaceNN  
+  ボートレースの結果をテーブル分類問題として予測したプロジェクトです。
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=BoatRaceNN)](https://github.com/pikum99/BoatRaceNN)
+
+  使用技術  
+  ライブラリ: PyTorch  
+  モデル: MLP  
 
 
 ## 経歴
@@ -47,4 +66,4 @@
 - 学府専攻賞
 - ウシオ財団 奨学生
 - 日本学術振興会 特別研究員(DC2)
-- 核融合年会若手優秀発表賞(ポスター)
+- 核融合年会若手優秀発表賞
