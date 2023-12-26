@@ -4,7 +4,7 @@
 現在得意とするスキルは以下の通りです。  
 バックエンド: Django  
 フロントエンド: Vue.js  
-インフラ: Docker, AWS, GitHub
+インフラ: Docker, AWS, GitHub  
 機械学習: Pytorch
 
 ## ポートフォリオ
