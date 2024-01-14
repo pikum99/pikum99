@@ -59,7 +59,7 @@ web技術や機械学習が好きです。
 
 
 ### 執筆記事  
-　　[qiita](https://qiita.com/pikum)
+　　[zenn](https://zenn.dev/pikum)
 
 ## 具体的なエピソード
 
