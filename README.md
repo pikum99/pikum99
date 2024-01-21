@@ -17,18 +17,25 @@ web技術や機械学習が好きです。
 
 ### Webサービス
 
-- [HAKUSHI](https://hakushi.biz/)  
-  キャラクター支援型モチベーション管理サービス。
+<details>
+  <summary>詳細</summary>
   
-  使用技術  
-  バックエンド: Django, DRF  
-  フロントエンド: Vue3.2  
-  インフラ: Docker, AWS EC2, sentry
+  - [HAKUSHI](https://hakushi.biz/)  
+      キャラクター支援型モチベーション管理サービス。
   
+      使用技術  
+      バックエンド: Django, DRF  
+      フロントエンド: Vue3.2  
+      インフラ: Docker, AWS EC2, sentry
+</details>
+
 
 ### ツール開発
 
-- TechDebtExplorer  
+<details>
+  <summary>詳細</summary>
+  
+  - TechDebtExplorer  
   技術的負債を可視化することを目的とした計算ツールです。
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=TechDebtExplorer)](https://github.com/pikum99/TechDebtExplorer)
@@ -36,32 +43,37 @@ web技術や機械学習が好きです。
   使用技術  
   言語: Python  
   アルゴリズム: Levenshtein  
+</details>
 
 ### 機械学習モデル開発
 
-- StockNN  
-  株価をテーブル分類問題として予測しようとしたプロジェクトです。
+<details>
+  <summary>詳細</summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=StockNN)](https://github.com/pikum99/StockNN)
+  - StockNN  
+      株価をテーブル分類問題として予測しようとしたプロジェクトです。
+      
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=StockNN)](https://github.com/pikum99/StockNN)
+    
+      使用技術  
+      ライブラリ: PyTorch  
+      モデル: LSTM + MLP
 
-  使用技術  
-  ライブラリ: PyTorch  
-  モデル: LSTM + MLP
-
-- BoatRaceNN  
-  ボートレースの結果をテーブル分類問題として予測したプロジェクトです。
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=BoatRaceNN)](https://github.com/pikum99/BoatRaceNN)
-
-  使用技術  
-  ライブラリ: PyTorch  
-  モデル: MLP
-
+  - BoatRaceNN  
+      ボートレースの結果をテーブル分類問題として予測したプロジェクトです。
+      
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pikum99&repo=BoatRaceNN)](https://github.com/pikum99/BoatRaceNN)
+    
+      使用技術  
+      ライブラリ: PyTorch  
+      モデル: MLP
+</details>
 
 ### 執筆記事  
-　　[zenn](https://zenn.dev/pikum)
 
-## 具体的なエピソード
+[zenn](https://zenn.dev/pikum)
+
+## 特筆すべき事項(業務経験)
 
 ### 機械学習チームマネージャー
 
@@ -84,25 +96,12 @@ web技術や機械学習が好きです。
 </p>
 </details>
 
-### HAKUSHIの個人開発
-<details>
-  <summary>詳細</summary>
-<p>
-[HAKUSHI](https://hakushi.biz/)というwebサービスを個人開発しております。ほぼ全てを一人で作っているので、インフラ構築〜開発〜広告まで一通りのことを経験し、その難しさを痛感しております。
-具体的に取り組んだことは以下の通りです。
-- コンセプト選定  
-  自分の思いつく限り、様々な機能を実装していましたが、市場の反応、自分が本当に使うのかというのをPDCAサイクルを2年間回しました。その行き着いた先が、現在のHAKUSHIというサービスになります。
-- 技術選定  
-  PDCAサイクルを回す間は比較的工数のかからないMVTのDjangoを採用し、コンセプトが決まってからは、フロントエンドはVue.js、バックエンドはDjango REST frameworkを導入しております。現在は、EC2にまとめて載せているので、これからは、フロントエンドサーバーを立てる、バックエンドデプロイにはECR+ECSのCICDの構築をやっていけたら良いと思っております。
-</p>
-</details>
-
 ### 現在の職場のプロダクトにオニオンアーキテクチャの導入
+
 <details>
   <summary>詳細</summary>
-  <p>
-  上記の経験を踏まえ、現在の職場のプロダクトではアーキテクチャの概念が不足していたため、チームミーティングで積極的に意見を述べ、アーキテクチャの重要性を説明しました。具体的には、「まずはレポジトリ層から」というアプローチを提案し、部分的な導入を進めることに成功しました。   
-  また、このプロダクトの具体的な業務として
+  
+  上記の経験を踏まえ、現在の職場のプロダクトではアーキテクチャの概念が不足していたため、チームミーティングで積極的に意見を述べ、アーキテクチャの重要性を説明しました。具体的には、「まずはレポジトリ層から」というアプローチを提案し、部分的な導入を進めることに成功しました。  また、このプロダクトの具体的な業務として
   - フルリプレイスメントに伴うデータ移管  
     旧システムから新システムへの移行時期だったので、様々なデータを移管させるために、仕様書作成から移管バッチ製造を行いました。
   - 既存機能改修  
@@ -111,17 +110,34 @@ web技術や機械学習が好きです。
     ふわっとした機能追加要件が多いのですが、そこから**丁寧に**認識合わせを行い、仕様書、試験書を作成してから、製造をおこなっておりました。
   - クライアント対応  
     システム移管ではクライアントのやりとりが必要になるので、その対応も行いました。
-  </p>
+
 </details>
 
 ### 新規プロジェクト立ち上げ
+
 <details>
   <summary>詳細</summary>
-  <p>
-現在の職場において、新規プロジェクト立ち上げに相談役として参加しました。  
-このプロジェクトでは、私が機械学習チームマネージャーとしての経験と、個人開発のスキルを駆使して、新プロダクトのアーキテクチャ構想からAI機能の導入、具体的なユーザー体験の設計まで携わりました。  
-この経験を通じて、現場のエンジニアに対する説明の難しさ、上層部との円滑なコミュニケーションの難しさ、さらには社内全体の雰囲気の調整の重要性を身をもって理解することができました。
-  </p>
+  
+  現在の職場において、新規プロジェクト立ち上げに相談役として参加しました。  
+    このプロジェクトでは、私が機械学習チームマネージャーとしての経験と、個人開発のスキルを駆使して、新プロダクトのアーキテクチャ構想からAI機能の導入、具体的なユーザー体験の設計まで携わりました。  
+    この経験を通じて、現場のエンジニアに対する説明の難しさ、上層部との円滑なコミュニケーションの難しさ、さらには社内全体の雰囲気の調整の重要性を身をもって理解することができました。
+
+</details>
+
+## 特筆すべき事項(個人的)
+
+### HAKUSHIの個人開発
+
+<details>
+  <summary>詳細</summary>
+  
+  [HAKUSHI](https://hakushi.biz/)というwebサービスを個人開発しております。  
+  ほぼ全てを一人で作っているので、インフラ構築〜開発〜広告まで一通りのことを経験し、その難しさを痛感しております。
+具体的に取り組んだことは以下の通りです。
+  - コンセプト選定  
+       自分の思いつく限り、様々な機能を実装していましたが、市場の反応、自分が本当に使うのかというのをPDCAサイクルを2年間回しました。その行き着いた先が、現在のHAKUSHIというサービスになります。
+  - 技術選定  
+      PDCAサイクルを回す間は比較的工数のかからないMVTのDjangoを採用し、コンセプトが決まってからは、フロントエンドはVue.js、バックエンドはDjango REST frameworkを導入しております。現在は、EC2にまとめて載せているので、これからは、フロントエンドサーバーを立てる、バックエンドデプロイにはECR+ECSのCICDの構築をやっていけたら良いと思っております。
 </details>
 
 ### 大学院時代の経験
