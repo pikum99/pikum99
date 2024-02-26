@@ -17,20 +17,40 @@ web技術や機械学習が好きです。
 
 ### Webサービス
 
+#### [HAKUSHI](https://hakushi.biz/)
 <details>
   <summary>詳細</summary>
   
-  - [HAKUSHI](https://hakushi.biz/)  
-      モチベーション維持をテーマに設計されたモチベーション支援サービス。
-  
+URL: https://hakushi.biz/  
+      テーマ: モチベーション維持をテーマに設計されたモチベーション支援サービス。  
+      開発期間:  2022年6月リリース   
+      DAU:3人  
+
       使用技術  
       バックエンド: Django, DRF  
       フロントエンド: Vue3.2  
       インフラ: Docker, AWS EC2, sentry
 </details>
 
+#### PaperwithFusion(開発中)
+<details>
+  <summary>詳細</summary>
+  
+URL: 開発中  
+      テーマ: 核融合研究者が先行研究調査業務に特化した検索エンジン  
+      開発期間:  2024年冬リリース予定   
 
-### ツール開発
+      使用技術  
+      バックエンド: Python  
+      フロントエンド: React  
+      インフラ: Serverless Framework(API GateWay, Docker, Lambda)  
+      Embedding(チューニングなし): albert-base-v2  
+      形態素解析: spacy  
+      近傍探査, TF-IDF: scikit-learn  
+</details>
+
+
+### ツール開発(開発中)
 
 <details>
   <summary>詳細</summary>
