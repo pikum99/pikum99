@@ -43,7 +43,7 @@ URL: 開発中
       使用技術  
       バックエンド: Python  
       フロントエンド: React  
-      インフラ: Serverless Framework(API GateWay, Docker, Lambda)  
+      インフラ: AWS Amplify, Serverless Framework(API GateWay, Docker, Lambda)  
       Embedding(チューニングなし): albert-base-v2  
       形態素解析: spacy  
       近傍探査, TF-IDF: scikit-learn  
