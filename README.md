@@ -19,7 +19,7 @@ web技術や機械学習が好きです。
 
 #### [HAKUSHI](https://hakushi.biz/)
 <details>
-  <summary>詳細</summary>
+  <summary>詳細はこちらをクリック</summary>
   
 URL: https://hakushi.biz/  
       テーマ: モチベーション維持をテーマに設計されたモチベーション支援サービス。  
@@ -32,11 +32,11 @@ URL: https://hakushi.biz/
       インフラ: Docker, AWS EC2, sentry
 </details>
 
-#### PaperwithFusion(開発中)
+#### [PaperwithFusion](https://staging.d3mw4gj6mldhry.amplifyapp.com/)
 <details>
-  <summary>詳細</summary>
+  <summary>詳細はこちらをクリック</summary>
   
-URL: 開発中  
+URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/) 
       テーマ: 核融合研究者が先行研究調査業務に特化した検索エンジン  
       開発期間:  2024年冬リリース予定   
 
@@ -53,7 +53,7 @@ URL: 開発中
 ### ツール開発(開発中)
 
 <details>
-  <summary>詳細</summary>
+  <summary>詳細はこちらをクリック</summary>
   
   - TechDebtExplorer  
   技術的負債を可視化することを目的とした計算ツールです。
@@ -68,7 +68,7 @@ URL: 開発中
 ### 機械学習モデル開発
 
 <details>
-  <summary>詳細</summary>
+  <summary>詳細はこちらをクリック</summary>
   
   - StockNN  
       株価をテーブル分類問題として予測しようとしたプロジェクトです。
