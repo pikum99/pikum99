@@ -36,7 +36,7 @@ URL: https://hakushi.biz/
 <details>
   <summary>詳細はこちらをクリック</summary>
   
-URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/) 
+URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/)  
       テーマ: 核融合研究者が先行研究調査業務に特化した検索エンジン  
       開発期間:  2024年冬リリース予定   
 
