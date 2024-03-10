@@ -389,7 +389,7 @@ IT業界に転身したきっかけは、核融合発電の業界規模が非常
   - 多素子アレイプリント基板アンテナの製造及び回路、計測システムの実装([国際論文雑誌掲載](https://www.jspf.or.jp/PFR/PFR_articles/pfr2019/pfr2019_14-3402111.html))
   - 高温プラズマにおける電磁波シミュレーション([マックスプランク・プラズマ物理研究所との共同研究](http://www.iae.kyoto-u.ac.jp/plasma/pladys/news/2019/PLADyS.Report.20200319.Fukuyama.pdf))
 - webエンジニア, 2022年 -
-  - [商品管理システム開発](https://pcs.diamondhead.jp/)
+  - 商品管理システム開発メンバー
   - 機械学習チームマネージャー
 </details>
 
