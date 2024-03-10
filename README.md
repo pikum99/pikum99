@@ -49,7 +49,7 @@ URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/)
       近傍探査, TF-IDF: scikit-learn  
 </details>
 
-### [記事執筆](https://zenn.dev/pikum)  
+#### [記事執筆](https://zenn.dev/pikum)  
 <details>
   <summary>詳細はこちらをクリック</summary>
   
@@ -58,7 +58,7 @@ URL: [Zenn](https://zenn.dev/pikum)
 
 </details>
 
-### ツール開発(開発中)
+#### ツール開発(開発中)
 
 <details>
   <summary>詳細はこちらをクリック</summary>
@@ -73,7 +73,7 @@ URL: [Zenn](https://zenn.dev/pikum)
   アルゴリズム: Levenshtein  
 </details>
 
-### 機械学習モデル開発
+#### 機械学習モデル開発
 
 <details>
   <summary>詳細はこちらをクリック</summary>
