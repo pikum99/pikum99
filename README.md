@@ -49,6 +49,8 @@ URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/)
       近傍探査, TF-IDF: scikit-learn  
 </details>
 
+### 情報発信
+
 #### [記事執筆](https://zenn.dev/pikum)  
 <details>
   <summary>詳細はこちらをクリック</summary>
@@ -57,6 +59,8 @@ URL: [Zenn](https://zenn.dev/pikum)
     個人開発で学んだことのアプトプット
 
 </details>
+
+### その他
 
 #### ツール開発(開発中)
 
