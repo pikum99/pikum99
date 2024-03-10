@@ -49,7 +49,7 @@ URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/)
       近傍探査, TF-IDF: scikit-learn  
 </details>
 
-### [zenn](https://zenn.dev/pikum)  
+### [記事執筆](https://zenn.dev/pikum)  
 
 ### ツール開発(開発中)
 
