@@ -49,6 +49,7 @@ URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/)
       近傍探査, TF-IDF: scikit-learn  
 </details>
 
+### [zenn](https://zenn.dev/pikum)  
 
 ### ツール開発(開発中)
 
@@ -89,9 +90,6 @@ URL: [STG環境](https://staging.d3mw4gj6mldhry.amplifyapp.com/)
       モデル: MLP
 </details>
 
-### 執筆記事  
-
-[zenn](https://zenn.dev/pikum)
 
 ## プロジェクト経験(業務経験)
 
