@@ -17,7 +17,7 @@ web技術や機械学習が好きです。
 
 ### Webサービス
 
-#### [HAKUSHI](https://hakushi.biz/)
+#### [HAKUSHI](https://hakushi.biz/) サービス終了
 <details>
   <summary>詳細はこちらをクリック</summary>
   
